@@ -16,3 +16,33 @@ The Project Module Management System aims to streamline the management and asses
 - **Database:** MongoDB
 - **State Management:** Redux
 - **Version Control:** Git, GitHub
+
+## How to Install and Run the Project
+1. **Clone the Repository**:
+    ```sh
+    git clone https://github.com/Yeshmantha/Project-Module-Management-System.git
+    ```
+2. **Navigate to the Backend Directory**:
+    ```sh
+    cd Project-Module-Management-System/backend
+    ```
+3. **Install Dependencies**:
+    ```sh
+    npm install
+    ```
+4. **Run the Backend Server**:
+    ```sh
+    npm start
+    ```
+5. **Navigate to the Frontend Directory**:
+    ```sh
+    cd ../frontend
+    ```
+6. **Install Dependencies**:
+    ```sh
+    npm install
+    ```
+7. **Run the Frontend Application**:
+    ```sh
+    npm start
+    ```
